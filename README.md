@@ -18,4 +18,5 @@ Feel Free To Edit it
 $ git clone https://github.com/Thman558/Prank-Kali-Linux-Python
 
 $ cd Prank-Kali-Linux-Python
+
 $ python3 Prank-Kali-Linux-Python.py
